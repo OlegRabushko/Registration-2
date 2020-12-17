@@ -315,6 +315,22 @@
   width: 410px;
 }
 
+.container .authorization__block .login__container .login__input::-webkit-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .authorization__block .login__container .login__input:-ms-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .authorization__block .login__container .login__input::-ms-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .authorization__block .login__container .login__input::placeholder {
+  color: #f5f5f5;
+}
+
 @media (max-width: 1700px) {
   .container .authorization__block .login__container .login__input {
     width: 350px;
@@ -407,6 +423,22 @@
   font-size: 22px;
   line-height: 20px;
   width: 410px;
+}
+
+.container .authorization__block .password__container .password__input::-webkit-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .authorization__block .password__container .password__input:-ms-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .authorization__block .password__container .password__input::-ms-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .authorization__block .password__container .password__input::placeholder {
+  color: #f5f5f5;
 }
 
 @media (max-width: 1700px) {
@@ -792,6 +824,23 @@
   background-color: #fff;
   padding: 0 5px;
   text-align: center;
+  padding: 0 5px;
+}
+
+.container .creditCard__block .creditCard__container .cardNumber__container input::-webkit-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .creditCard__block .creditCard__container .cardNumber__container input:-ms-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .creditCard__block .creditCard__container .cardNumber__container input::-ms-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .creditCard__block .creditCard__container .cardNumber__container input::placeholder {
+  color: #f5f5f5;
 }
 
 @media (max-width: 1700px) {
@@ -937,6 +986,23 @@
 .container .creditCard__block .creditCard__container .cardNumber__container .creditCard__inputs .cardDate__input {
   width: 50px;
   font-size: 18px;
+  padding: 0 5px;
+}
+
+.container .creditCard__block .creditCard__container .cardNumber__container .creditCard__inputs .cardDate__input::-webkit-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .creditCard__block .creditCard__container .cardNumber__container .creditCard__inputs .cardDate__input:-ms-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .creditCard__block .creditCard__container .cardNumber__container .creditCard__inputs .cardDate__input::-ms-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .creditCard__block .creditCard__container .cardNumber__container .creditCard__inputs .cardDate__input::placeholder {
+  color: #f5f5f5;
 }
 
 @media (max-width: 1280px) {
@@ -1157,6 +1223,23 @@
 .container .creditCard__block .nameCVV__container .name__input {
   width: 340px;
   margin-right: 32px;
+  padding: 0 5px;
+}
+
+.container .creditCard__block .nameCVV__container .name__input::-webkit-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .creditCard__block .nameCVV__container .name__input:-ms-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .creditCard__block .nameCVV__container .name__input::-ms-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .creditCard__block .nameCVV__container .name__input::placeholder {
+  color: #f5f5f5;
 }
 
 @media (max-width: 1700px) {
@@ -1218,6 +1301,23 @@
   width: 80px;
   margin-right: 50px;
   text-align: center;
+  padding: 0 5px;
+}
+
+.container .creditCard__block .nameCVV__container .cvv__input::-webkit-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .creditCard__block .nameCVV__container .cvv__input:-ms-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .creditCard__block .nameCVV__container .cvv__input::-ms-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .creditCard__block .nameCVV__container .cvv__input::placeholder {
+  color: #f5f5f5;
 }
 
 @media (max-width: 1280px) {
@@ -1639,6 +1739,23 @@
   line-height: 20px;
   width: 350px;
   padding: 0 10px;
+  padding: 0 5px;
+}
+
+.container .serviceData__block .serviceData__container .position__input::-webkit-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .serviceData__block .serviceData__container .position__input:-ms-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .serviceData__block .serviceData__container .position__input::-ms-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .serviceData__block .serviceData__container .position__input::placeholder {
+  color: #f5f5f5;
 }
 
 @media (max-width: 1280px) {
@@ -1732,6 +1849,23 @@
   height: 150px;
   padding: 15px;
   resize: none;
+  padding: 0 5px;
+}
+
+.container .serviceData__block .serviceData__container .message__input::-webkit-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .serviceData__block .serviceData__container .message__input:-ms-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .serviceData__block .serviceData__container .message__input::-ms-input-placeholder {
+  color: #f5f5f5;
+}
+
+.container .serviceData__block .serviceData__container .message__input::placeholder {
+  color: #f5f5f5;
 }
 
 @media (max-width: 1700px) {

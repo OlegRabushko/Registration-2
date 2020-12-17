@@ -239,6 +239,9 @@ body{
                 @include inputs;
                 @include Gotham400;
                 width: 410px;
+                &::placeholder{
+                    color: #f5f5f5;
+                }
                 @media(max-width:1700px){
                     width: 350px;
                 }
@@ -288,6 +291,9 @@ body{
                 @include inputs;
                 @include Gotham400;
                 width: 410px;
+                &::placeholder{
+                    color: #f5f5f5;
+                }
                 @media(max-width:1700px){
                     width: 350px;
                 }
@@ -507,6 +513,10 @@ body{
                     background-color: #fff;
                     padding: 0 5px;
                     text-align: center;
+                    padding: 0 5px;
+                     &::placeholder{
+                    color: #f5f5f5;
+                    }
                     @media(max-width:1700px){
                         width: 75px;
                         height: 45px;
@@ -585,6 +595,10 @@ body{
                     .cardDate__input{
                         width: 50px;
                         font-size: 18px;
+                        padding: 0 5px;
+                        &::placeholder{
+                            color: #f5f5f5;
+                        }
                         @media(max-width:1280px){
                             width: 32px;
                             font-size: 12px;
@@ -717,6 +731,10 @@ body{
             .name__input{
                 width: 340px;
                 margin-right: 32px;
+                padding: 0 5px;
+                &::placeholder{
+                    color: #f5f5f5;
+                }
                 @media(max-width:1700px){
                     width: 285px;
                     margin-right: 20px;
@@ -750,6 +768,10 @@ body{
                 width: 80px;
                 margin-right: 50px;
                 text-align: center;
+                padding: 0 5px;
+                &::placeholder{
+                    color: #f5f5f5;
+                }
                 @media(max-width:1280px){
                     width: 52px;
                     margin-right: 30px;
@@ -987,6 +1009,10 @@ body{
                 @include Gotham400;
                 width: 350px;
                 padding: 0 10px;
+                padding: 0 5px;
+                &::placeholder{
+                    color: #f5f5f5;
+                }
                 @media(max-width:1280px){
                     font-size: 16px;
                     line-height: 14px;
@@ -1036,6 +1062,10 @@ body{
                 height: 150px;
                 padding: 15px;
                 resize: none;
+                padding: 0 5px;
+                &::placeholder{
+                    color: #f5f5f5;
+                }
                 @media(max-width:1700px){
                     height: 100px;
                 }
